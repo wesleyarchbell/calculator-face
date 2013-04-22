@@ -1,0 +1,30 @@
+{"friendlyVersion": "VERSION",
+    "versionDefName": "APP_RESOURCES",
+    "media": [
+        {
+            "type": "font",
+            "defName": "FONT_DIGITAL_45",
+            "file": "fonts/digital.ttf"
+        },
+        {
+            "type": "font",
+            "defName": "FONT_DIGITAL_21",
+            "file": "fonts/digital.ttf"
+        },
+        {
+            "type": "font",
+            "defName": "FONT_DIGITAL_17",
+            "file": "fonts/digital.ttf"
+        },
+        {
+            "type": "png",
+            "defName": "IMAGE_MENU_ICON",
+            "file": "images/menu_icon.png"
+        },
+        {
+            "type": "png",
+            "defName": "IMAGE_WATCH_FACE",
+            "file": "images/watch_face.png"
+        }
+    ]
+}
